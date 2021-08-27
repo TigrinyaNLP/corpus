@@ -1,1 +1,3 @@
-# corpus 1.0
+# Tigrinya NLP - data source repository
+
+[Documentation](https://tigrinyanlp.github.io/).
